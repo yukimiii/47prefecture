@@ -3,5 +3,5 @@ pushed from 47prefecture.jp
 oosaka 2020/10/11  
 プルリクエストのメッセージテンプレ  
 例  
-都道府県名 year-month-12  
-oosaka 20-10-12
+都道府県名 年/月/日
+oosaka 2020/10/11
