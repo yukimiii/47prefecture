@@ -5,6 +5,6 @@ pushed from 47prefecture.jp
 神奈川県　2020/10/12 by kagawa0710  
 大阪府　　2020/10/11 by yukimiii  
 プルリクエストのメッセージテンプレ  
+都道府県名 年/月/日  
 例  
-都道府県名 年/月/日
 oosaka 2020/10/11
