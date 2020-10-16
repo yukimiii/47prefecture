@@ -10,24 +10,27 @@ writer = cv2.VideoWriter('out1.m4v', fmt, fps, size)
 face_cascade_file5 = "haarcascade_frontalface_alt.xml"
 face_cascade_5 = cv2.CascadeClassifier(face_cascade_file5)
 
-anime_file = "Harbor.jpg"
-anime_face = cv2.imread(anime_file)
+pic_file = "Harbor.jpg"
+pic_face = cv2.imread(pic_file)
 
-anime2_file = "Luminarie.jpg"
-anime2_face = cv2.imread(anime2_file)
+pic2_file = "Luminarie.jpg"
+pic2_face = cv2.imread(pic2_file)
 
-def anime_face_func(img, rect):
+
+def pic_face_func(img, rect):
     (x1, y1, x2, y2) = rect
     w = x2 - x1
     h = y2 - y1
+
     if(w < 150):
-        img_face = cv2.resize(anime_face, (w, h))
+        img_face = cv2.resize(pic_face, (w, h))
     else:
-        img_face = cv2.resize(anime2_face, (w, h))
+        img_face = cv2.resize(pic2_face, (w, h))
 
     img2 = img.copy()
     img2[y1:y2, x1:x2] = img_face
     return img2
+
 
 while True:
     # 画像を取得
@@ -37,9 +40,7 @@ while True:
     faces = face_cascade_5.detectMultiScale(gray, 1.1, 2)
 
     for (x, y, w, h) in faces:
-        img = anime_face_func(img, (x, y, x+w, y+h))
-
-    writer.write(img)
+        img = pic_face_func(img, (x, y, x+w, y+h))
 
     cv2.imshow('img', img)
 
@@ -48,6 +49,5 @@ while True:
     if k == 13:
         break
 
-writer.release()
 cap.release()
 cv2.destroyAllWindows()
