@@ -1,7 +1,8 @@
 # 47prefecture
 pushed from 47prefecture.jp  
 北海道　　2021/03/08 by otaishi
-青森県　　2020/10/12 by mfunyu  
+青森県　　2020/10/12 by mfunyu 
+千葉県　　2021/02/18 by snara-42  
 東京都　　2020/10/12 by kayo289  
 神奈川県　2020/10/12 by kagawa0710  
 静岡県　　2021/02/20 by snara-42
