@@ -8,6 +8,7 @@ pushed from 47prefecture.jp
 静岡県　　2021/02/20 by snara-42  
 大阪府　　2020/10/11 by yukimiii  
 兵庫県　　2020/10/13 by kyuki810  
+高知県　　2021/03/23 by solareenlo  
 プルリクエストのメッセージテンプレ  
 都道府県名 年/月/日  
 例  
