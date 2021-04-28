@@ -5,6 +5,7 @@ pushed from 47prefecture.jp
 青森県　　2020/10/12 by mfunyu  
 岩手県　　2021/04/03 by snara-42  
 宮城県　　2021/04/03 by snara-42  
+茨城県　　2021/04/03 by snara-42  
 栃木県　　2021/03/28 by snara-42  
 千葉県　　2021/02/18 by snara-42  
 東京都　　2020/10/12 by kayo289  
