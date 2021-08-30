@@ -13,12 +13,12 @@ pushed from 47prefecture.jp
 東京都　　2020/10/12 by kayo289  
 神奈川県　2020/10/12 by kagawa0710  
 静岡県　　2021/02/20 by snara-42  
-三重県　　2021/08/30 by snara-42
-滋賀県　　2021/08/30 by snara-42
-京都府　　2021/08/29 by snara-42
+三重県　　2021/08/30 by snara-42  
+滋賀県　　2021/08/30 by snara-42  
+京都府　　2021/08/29 by snara-42  
 大阪府　　2020/10/11 by yukimiii  
 兵庫県　　2020/10/13 by kyuki810  
-岡山県　　2021/08/27 by snara-42
+岡山県　　2021/08/27 by snara-42  
 徳島県　　2021/04/01 by solareenlo  
 高知県　　2021/03/23 by solareenlo  
 愛媛県　　2021/04/01 by solareenlo  
