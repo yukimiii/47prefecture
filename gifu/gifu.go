@@ -1,5 +1,5 @@
 // converts an image file into another format.
-// So far following image formats are supported: [jpeg, png, gif]
+// So far following image formats are supported: jpeg, png, gif.
 package main
 
 import (
