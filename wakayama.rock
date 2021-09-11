@@ -1,0 +1,40 @@
+kii is wakayama
+let the array at "len" be kii
+
+i was nothing
+ type says  Airport Rapid 
+ dest says  KTX
+while i is lower than kii over 2
+ build i up
+ let the array at i be type with "for" plus dest 
+
+ type says  Kishuji Rapid 
+ dest says  Wakayama
+while i is lower than kii
+ build i up
+ let the array at i be type with "for" plus dest 
+
+i is 1
+while i is lower than the array
+ shout i with ":" plus the array at i
+ build i up
+
+shout ""
+i was nothing
+ type says  Southern reserved seat 
+ dest says  WAKAYAMASHI
+while i is lower than kii over 2
+ build i up
+ let the array at i be type with "for" plus dest 
+
+ type says  Southern non-reserved  
+ dest says  WAKAYAMASHI 
+while i is lower than kii
+ build i up
+ let the array at i be type with "for" plus dest 
+
+i is 1
+while i is lower than the array
+ shout i with ":" plus the array at i
+ build i up
+
