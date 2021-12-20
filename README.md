@@ -1,7 +1,7 @@
 # 47prefecture  
 
 pushed from 47prefecture.jp  
-| 都道府県&nbsp;&nbsp; | 日付       | 人             | 概要             | 実行方法 |  
+| 都道府県 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 日付       | 人             | 概要             | 実行方法 |  
 |----|----|----|----|----|   
 | 北海道　 | 2021/03/08 | by otaishi     |   寒い。         | `gcc hokkaido.c && ./a.out` | 
 | 青森県　 | 2020/10/12 | by mfunyu      |   オープンデータ | `pip install requests && python aomori.py` | 
