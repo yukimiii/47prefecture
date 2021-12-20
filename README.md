@@ -19,7 +19,7 @@ pushed from 47prefecture.jp
 | 神奈川県 | 2020/10/12 | by kagawa0710  |   MM             | `gcc kanagawa.c && ./a.out` | 
 | 新潟県　 | 2021/09/03 | by snara-42    |   おおおにぎり   | `clang++ niigata.cpp && ./a.out` | 
 | 富山県　 | 2021/09/02 | by snara-42    |   ますのすし     | `npm install -g coffeescript && coffee toyama.coffee` | 
-| 石川県　 | 2021/09/02 | by snara-42    |   美しき駅メロ   | `npm install timbre && nodenv local 11.* && node ishikawa.js && nodenv local system` | 
+| 石川県　 | 2021/09/02 | by snara-42    |   美しき駅メロ   | `npm install timbre && node ishikawa.js # node -v == 11.*` | 
 | 福井県　 | 2021/09/02 | by snara-42    |   恐竜 新幹線    | `npm install -g typescript ts-node && npx ts-node fukui.ts` | 
 | 山梨県　 |            |                |   todo           | `` | 
 | 長野県　 | 2021/09/03 | by snara-42    |   県境たくさん   | `swift nagano.swift` | 
