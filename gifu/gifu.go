@@ -35,7 +35,7 @@ func main() {
 	flag.BoolVar(&c.V, "v", false, "show debug messages")
 	flag.Parse()
 	if c.V {
-		fmt.Fprintln(c.Out, "in=", *f_in, ", out=", *f_out, flag.Args())
+		fmt.Fprintln(c.Out, "in =", *f_in, ", out =", *f_out, ",", flag.Args())
 	}
 	n, err := ConvertAll(*f_in, *f_out, flag.Args(), c)
 	if err != nil {
@@ -60,8 +60,6 @@ func ConvertAll(in, out string, dirs []string, c *CLI) (n int, err error) {
 			return 0, fmt.Errorf("error: " + d + ": no such file or directory")
 		} else if !info.IsDir() && filepath.Ext(d) != "."+in {
 			return 0, fmt.Errorf("error: " + d + ": not a directory or a valid file")
-		} else if c.V {
-			fmt.Fprintln(c.Out, info.Name())
 		}
 	}
 	n = 0

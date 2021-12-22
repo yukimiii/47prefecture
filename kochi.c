@@ -54,11 +54,11 @@ int	main(void)
 	char	*s;
 	size_t	n;
 
-	n = ft_strlen("uni ga kirei desu.\n");
+	n = ft_strlen("umi ga kirei desu.\n");
 	s = malloc(n + 1);
 	if (s == NULL)
 		return (1);
-	ft_memmove(s, "uni ga kirei desu.\n", n);
+	ft_memmove(s, "umi ga kirei desu.\n", n);
 	s[n] = '\0';
 	write(1, s, n);
 	free(s);

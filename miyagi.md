@@ -9,11 +9,11 @@ Nishi-Sendai Kita-Sendai \ Higashi-Sendai
 Hi-Land             \    |/
                      \   /
 八木山動物公園-川内------仙台------荒井
-Yagiyama    Kawauchi  Sendai　 Arai
+Yagiyama    Kawauchi  Sendai   Arai
 Zoological            ||
-Park 　　　　　　　　   / |
+Park                    / |
                     /  |  
-　　　　　　　　   富沢   南仙台
+                   富沢   南仙台
             Tomizawa Minami-Sendai
                         |
                         |---仙台国際空港 SDJ

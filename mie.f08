@@ -1,3 +1,5 @@
+! gfortran mie.f08
+
 program mie
   implicit none
   character :: str*3
