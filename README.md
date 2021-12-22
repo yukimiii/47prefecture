@@ -12,10 +12,10 @@ pushed from 47prefecture.jp
 | 福島県　 | 2021/03/28 | by snara-42    |   brainfu?kやってみた | `brew install brainfuck && brainfuck fukushima.b` | 
 | 茨城県　 | 2021/04/03 | by snara-42    |   なっとう       | `gcc ibaraki.c && ./a.out` | 
 | 栃木県　 | 2021/03/28 | by snara-42    |   いちご         | `bash tochigi.sh` | 
-| 群馬県　 | 2021/04/27 | by snara-42    |   だるまさんが   | `bash gunma.sh` `# 1\n 5\n aaaaaaa\n ...` | 
+| 群馬県　 | 2021/04/27 | by snara-42    |   だるまさんが   | `bash gunma.sh` `# 1 5 aaaaaaa...` | 
 | 埼玉県　 | 2021/04/27 | by snara-42    |   ランダム都会   | `python saitama.py` | 
 | 千葉県　 | 2021/02/18 | by snara-42    |   都会と田舎     | `python chiba.py` | 
-| 東京都　 | 2020/10/12 <br> 2021/07/23 | by kayo289 <br> by snara-42    |   校舎より <br> 会場より  | `pip install PIL && python tokyo/tokyo.py` <br> `python tokyo/tokyo2020.py` | 
+| 東京都　 | 2020/10/12 <br> 2021/07/23 | by kayo289 <br> by snara-42    |   校舎より<br>会場より  | `pip install PIL && python tokyo/tokyo.py` <br> `python tokyo/tokyo2020.py` | 
 | 神奈川県 | 2020/10/12 | by kagawa0710  |   MM             | `gcc kanagawa.c && ./a.out` | 
 | 新潟県　 | 2021/09/03 | by snara-42    |   おおおにぎり   | `clang++ niigata.cpp && ./a.out` | 
 | 富山県　 | 2021/09/02 | by snara-42    |   ますのすし     | `npm install -g coffeescript && coffee toyama.coffee` | 
