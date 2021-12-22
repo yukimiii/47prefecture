@@ -1,7 +1,13 @@
-int main(int ac, char**av){
-  int i=0, c, r=srand(atoi(av[ac!=1]))%93+33;
-  while(read(1, &c, 1) && c!=r && ++i)                                                                                     
-    write(1, "soba ", 5);
-  printf("\n[%c] %d\n", r, i);
-  return 0;
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+int main(int ac, char **av)
+{
+	srand(atoi(av[ac != 1]));
+	int i = 0, g = 0, r = rand() % 94 + 33;
+	while (read(1, &g, 1) && g != r && ++i)
+		write(1, "soba ", 5);
+	printf("\n[%c] %d\n", r, i);
+	return 0;
 }

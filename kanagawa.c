@@ -3,6 +3,6 @@
 
 int main()
 {
-	printf("Rear charge explode at Minatomitai\n");
+	printf("Rear charge explode at Minatomirai\n");
 	return (0);
 }
