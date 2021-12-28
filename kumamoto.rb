@@ -8,4 +8,4 @@ $> << "\e[2K\n\e[30;91m●      ●"
 sleep 0.5
 $> << "\e[2K\n\e[30;91m●      ●"
 sleep 0.5
-puts
+puts  "\e[0m"
