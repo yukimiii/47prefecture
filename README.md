@@ -15,7 +15,7 @@ pushed from 47prefecture.jp
 | 群馬県　 | 2021/04/27 | by snara-42    |   だるまさんが   | `bash gunma.sh` `# 1 5 aaaaaaa...` | 
 | 埼玉県　 | 2021/04/27 | by snara-42    |   ランダム都会   | `python saitama.py` | 
 | 千葉県　 | 2021/02/18 | by snara-42    |   都会と田舎     | `python chiba.py` | 
-| 東京都　 | 2020/10/12 <br> 2021/07/23 | by kayo289 <br>by snara-42    |   校舎より <br>会場より  | `pip install PIL && python tokyo/tokyo.py` <br> `python tokyo/tokyo2020.py` | 
+| 東京都　 | 2020/10/12 <br> 2021/07/23 | by kayo289 <br>by snara-42    |   校舎より <br>会場より  | `pip install pillows && python tokyo/tokyo.py` <br> `python tokyo/tokyo2020.py` | 
 | 神奈川県 | 2020/10/12 | by kagawa0710  |   MM             | `gcc kanagawa.c && ./a.out` | 
 | 新潟県　 | 2021/09/03 | by snara-42    |   おおおにぎり   | `clang++ niigata.cpp && ./a.out` | 
 | 富山県　 | 2021/09/02 | by snara-42    |   ますのすし     | `npm install -g coffeescript && coffee toyama.coffee` | 
@@ -39,14 +39,14 @@ pushed from 47prefecture.jp
 | 広島県　 | 2021/12/26 | by snara-42    | 広島::お好み焼き | `clang++ hiroshima.cpp && ./a.out` | 
 | 山口県　 | 2021/12/26 | by snara-42    |   最も空白な県名 | `pip install whitespace && whitespace yamaguchi.ws` | 
 | 徳島県　 | 2021/04/01 | by solareenlo  |   落ちたらいや   | `gcc tokushima.c && ./a.out` | 
-| 香川県　 |            |                |   todo           | ` ` | 
+| 香川県　 | 2021/12/29 | by snara-42    |   うどん県       | `gcc kagawa.c && ./a.out` | 
 | 愛媛県　 | 2021/04/01 | by solareenlo  |   道後温泉修繕中 | `gcc ehime.c && ./a.out` | 
 | 高知県　 | 2021/03/23 | by solareenlo  |   海がきれい。   | `gcc kochi.c && ./a.out` | 
-| 福岡県　 |            |                |   todo           | ` ` | 
-| 佐賀県　 |            |                |   todo           | ` ` | 
-| 長崎県　 |            |                |   todo           | ` ` | 
-| 熊本県　 |            |                |   todo           | ` ` | 
-| 大分県　 |            |                |   todo           | ` ` | 
+| 福岡県　 | 2021/12/29 | by snara-42    | ラーメンタイマー | `clang++ -std=c++11 fukuoka.cpp && ./a.out` | 
+| 佐賀県　 | 2021/12/28 | by snara-42    |   狭軌と標準軌   | `pip install pillows && python saga.py` | 
+| 長崎県　 | 2021/12/28 | by snara-42    | dona nobis pacem | `pip install music21 pygame && python nagasaki.py` | 
+| 熊本県　 | 2021/12/27 | by snara-42    | ほっぺた紛失事件 | `ruby kumamoto.rb` | 
+| 大分県　 | 2021/12/27 | by snara-42    |   open(ONSEN)    | `gcc ooita.c && ./a.out` | 
 | 宮崎県　 |            |                |   todo           | ` ` | 
 | 鹿児島県 | 　         |                |   todo           | ` ` | 
 | 沖縄県　 |            |                |   todo           | ` ` | 
