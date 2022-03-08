@@ -33,8 +33,8 @@ pushed from 47prefecture.jp
 | 兵庫県　 | 2020/10/13 | by kyuki810    |   こうべ Kobe    | `cd hyogo && pip install -r requirements.txt && python hyogo.py && cd ..` | 
 | 奈良県　 | 2021/09/01 | by snara-42    | nara.s by s.nara | `nasm -f macho64 nara.s && gcc nara.o && ./a.out` | 
 | 和歌山県 | 2021/09/01 | by snara-42    |   rock歌         | `https://codewithrockstar.com/online` | 
-| 鳥取県　 |            |                |   todo           | ` ` | 
-| 島根県　 |            |                |   todo           | ` ` | 
+| 鳥取県　 | 2022/03/08 | by snara-42    |   try catch      | `clang++ tottori.cpp && ./a.out` | 
+| 島根県　 | 2022/03/09 | by snara-42    |   todo           | ` ` | 
 | 岡山県　 | 2021/08/27 | by snara-42    |   桃鉄.random    | `python okayama.py` | 
 | 広島県　 | 2021/12/26 | by snara-42    | 広島::お好み焼き | `clang++ hiroshima.cpp && ./a.out` | 
 | 山口県　 | 2021/12/26 | by snara-42    |   最も空白な県名 | `pip install whitespace && whitespace yamaguchi.ws` | 
