@@ -15,8 +15,8 @@ pushed from 47prefecture.jp
 | 群馬県　 | 2021/04/27 | by snara-42    |   だるまさんが   | `bash gunma.sh` `# 1 5 aaaaaaa...` | 
 | 埼玉県　 | 2021/04/27 | by snara-42    |   ランダムな駅   | `python saitama.py` | 
 | 千葉県　 | 2021/02/18 | by snara-42    |   都会と田舎     | `python chiba.py` | 
-| 東京都　 | 2020/10/12 <br> 2021/07/23 | by kayo289 <br>by snara-42    |   校舎より <br>会場より  | `pip install pillows && python tokyo/tokyo.py` <br> `python tokyo/tokyo2020.py` | 
-| 神奈川県 | 2020/10/12 | by kagawa0710  |   MM             | `gcc kanagawa.c && ./a.out` | 
+| 東京都　 | 2020/10/12<br>2021/07/23 | by kayo289<br>by snara-42    | 校舎より<br>会場より | `pip install pillows && python tokyo/tokyo.py` <br> `python tokyo/tokyo2020.py` | 
+| 神奈川県 | 2020/10/12 | by kagawa0710  |   MinatoMirai    | `gcc kanagawa.c && ./a.out` | 
 | 新潟県　 | 2021/09/03 | by snara-42    |   おおおにぎり   | `clang++ niigata.cpp && ./a.out` | 
 | 富山県　 | 2021/09/02 | by snara-42    |   ますのすし     | `npm install -g coffeescript && coffee toyama.coffee` | 
 | 石川県　 | 2021/09/02 | by snara-42    |   美しき駅メロ   | `npm install timbre && node ishikawa.js # node -v == 11.*` | 
@@ -34,7 +34,7 @@ pushed from 47prefecture.jp
 | 奈良県　 | 2021/09/01 | by snara-42    | nara.s by s.nara | `nasm -f macho64 nara.s && gcc nara.o && ./a.out` | 
 | 和歌山県 | 2021/09/01 | by snara-42    |   rock歌         | `https://codewithrockstar.com/online` | 
 | 鳥取県　 | 2022/03/08 | by snara-42    |   try catch      | `clang++ tottori.cpp && ./a.out` | 
-| 島根県　 | 2022/03/09 | by snara-42    |   todo           | ` ` | 
+| 島根県　 | 2022/03/09 | by snara-42    |   八雲立つ       | `ruby shimane.rb` | 
 | 岡山県　 | 2021/08/27 | by snara-42    |   桃鉄.random    | `python okayama.py` | 
 | 広島県　 | 2021/12/26 | by snara-42    | 広島::お好み焼き | `clang++ hiroshima.cpp && ./a.out` | 
 | 山口県　 | 2021/12/26 | by snara-42    |   最も空白な県名 | `pip install whitespace && whitespace yamaguchi.ws` | 
