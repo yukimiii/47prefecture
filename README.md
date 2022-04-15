@@ -47,7 +47,7 @@ pushed from 47prefecture.jp
 | 長崎県　 | 2021/12/28 | by snara-42    | dona nobis pacem | `pip install music21 pygame && python nagasaki.py` | 
 | 熊本県　 | 2021/12/27 | by snara-42    | ほっぺた紛失事件 | `ruby kumamoto.rb` | 
 | 大分県　 | 2021/12/27 | by snara-42    |   open           | `gcc ooita.c && ./a.out` | 
-| 宮崎県　 |            |                |   todo           | ` ` | 
+| 宮崎県　 |            |                |   ゆきみがやる           | ` ` | 
 | 鹿児島県 | 　         |                |   todo           | ` ` | 
 | 沖縄県　 |            |                |   todo           | ` ` | 
 
