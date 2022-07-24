@@ -21,7 +21,7 @@ pushed from 47prefecture.jp
 | 富山県　 | 2021/09/02 | by snara-42    |   ますのすし     | `npm install -g coffeescript && coffee toyama.coffee` | 
 | 石川県　 | 2021/09/02 | by snara-42    |   美しき駅メロ   | `npm install timbre && node ishikawa.js # node -v == 11.*` | 
 | 福井県　 | 2021/09/02 | by snara-42    |   恐竜と新幹線   | `npm install -g typescript ts-node && npx ts-node fukui.ts` | 
-| 山梨県　 |            |                |   todo           | ` ` | 
+| 山梨県　 | 2022/07/24 | by snara-42    |   頭を雲の上に出し | `ruby yamanashi.rb` | 
 | 長野県　 | 2021/09/03 | by snara-42    |   県境たくさん   | `swift nagano.swift` | 
 | 岐阜県　 | 2021/09/02 | by snara-42    |   png -> gif     | `go run gifu/gifu.go -v gifu && open gifu/gifu.gif` | 
 | 静岡県　 | 2021/02/20 | by snara-42    |   ふじのたかねに | `cd shizuoka && bash shizuoka.sh && cd ..` | 
