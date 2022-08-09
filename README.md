@@ -48,7 +48,7 @@ pushed from 47prefecture.jp
 | 熊本県　 | 2021/12/27 | by snara-42    | ほっぺた紛失事件 | `ruby kumamoto.rb` | 
 | 大分県　 | 2021/12/27 | by snara-42    |   open           | `gcc ooita.c && ./a.out` | 
 | 宮崎県　 |            |                |   ゆきみがやる           | ` ` | 
-| 鹿児島県 | 　         |                |   todo           | ` ` | 
+| 鹿児島県 | 2022/08/06 | by snara-42    |   んだもしたん   | `cd kagoshima && cargo run` | 
 | 沖縄県　 |            |                |   todo           | ` ` | 
 
 ## プルリクエストのメッセージテンプレ  
